@@ -8,4 +8,4 @@ I promise to:
 1. keep my negative attitude in check
 1. ask for help after being stuck for 15 minutes
 
-To track my GitHug page, [click here](https://github.com/ryanhoffman4).
+To track my GitHub page, [click here](https://github.com/ryanhoffman4).
