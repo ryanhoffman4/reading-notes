@@ -2,11 +2,11 @@
 
 The ACP process lets a programmer handle GitHub files with a terminal, edit them with VS code, and then use the terminal again to commit the changes and submit them to GitHub.  
 
-### The steps/commands
+### The steps and commands
 
--copy repository name from Github
+- copy repository name from Github
 - git clone <webpage name> (allows computer to handle duplicate of repository)
-- move to directory of repository name
+- navigate to directory of repository name in terminal
 - code . (opens repository in VS Code)
 - save changes in VS Code
 - git add . (stages changed files)
