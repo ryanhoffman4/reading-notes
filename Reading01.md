@@ -25,3 +25,7 @@ easier.  To do this, GetHub pages uses a conversion tool called Markdown.
   * *write in italics*
   * **write in bold**
   * post links to help people learn more about [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+
+
+
+[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)

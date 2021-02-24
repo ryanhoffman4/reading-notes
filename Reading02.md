@@ -21,3 +21,6 @@ of like a substitute for handling files with a mouse.
 
   Here is a [link](https://www.guru99.com/linux-commands-cheat-sheet.html) to some user interface commands in the command line.  
 
+ 
+ 
+[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)

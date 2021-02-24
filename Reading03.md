@@ -12,3 +12,7 @@ The ACP process lets a programmer handle GitHub files with a terminal, edit them
 - git add . (stages changed files)
 - git commit -m "<message>" (commits changes in git with messages)
 - git push origin main (finalizes updates to git files)
+
+
+
+[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)

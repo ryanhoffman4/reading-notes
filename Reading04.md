@@ -39,3 +39,7 @@ Here is an [HTML5 tag cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlc
 ### Chapter 8 - Extra Markup
 
 This chapter goes deeper into blocks of elements.  The cheat sheet is still appropriate for this chapter.  
+
+
+
+ [Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)
