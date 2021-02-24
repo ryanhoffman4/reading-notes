@@ -42,4 +42,4 @@ This chapter goes deeper into blocks of elements.  The cheat sheet is still appr
 
 
 
- [Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)
+ [Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

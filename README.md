@@ -4,10 +4,10 @@
 
 #### Table of Contents:
 
-- [Reading01](https://github.com/ryanhoffman4/reading-notes/blob/main/Reading01.md)
-- [Reading02](https://github.com/ryanhoffman4/reading-notes/blob/main/Reading02.md)
-- [Reading03](https://github.com/ryanhoffman4/reading-notes/blob/main/Reading03.md)
-- [Reading04](https://github.com/ryanhoffman4/reading-notes/blob/main/Reading04.md)
+- [Reading01](https://ryanhoffman4.github.io/reading-notes/Reading01)
+- [Reading02](https://ryanhoffman4.github.io/reading-notes/Reading02)
+- [Reading03](https://ryanhoffman4.github.io/reading-notes/Reading03)
+- [Reading04](https://ryanhoffman4.github.io/reading-notes/Reading04)
 
 
 #### To my GitHub Profile:

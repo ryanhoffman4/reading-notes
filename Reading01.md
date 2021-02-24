@@ -28,4 +28,4 @@ easier.  To do this, GetHub pages uses a conversion tool called Markdown.
 
 
 
-[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

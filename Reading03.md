@@ -15,4 +15,4 @@ The ACP process lets a programmer handle GitHub files with a terminal, edit them
 
 
 
-[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

@@ -23,4 +23,4 @@ of like a substitute for handling files with a mouse.
 
  
  
-[Back to Table of Contents](https://github.com/ryanhoffman4/reading-notes/blob/main/README.md)
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)
