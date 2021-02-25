@@ -8,7 +8,10 @@
 - [Reading02](https://ryanhoffman4.github.io/reading-notes/Reading02)
 - [Reading03](https://ryanhoffman4.github.io/reading-notes/Reading03)
 - [Reading04](https://ryanhoffman4.github.io/reading-notes/Reading04)
-
+- [Reading05](https://ryanhoffman4.github.io/reading-notes/Reading05)
+- [Reading06](https://ryanhoffman4.github.io/reading-notes/Reading06)
+- [Reading07](https://ryanhoffman4.github.io/reading-notes/Reading07)
+- [Reading08](https://ryanhoffman4.github.io/reading-notes/Reading08)
 
 #### To my GitHub Profile:
 To track my GitHub page, [click here](https://github.com/ryanhoffman4).

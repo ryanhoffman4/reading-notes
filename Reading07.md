@@ -44,3 +44,6 @@ function sample_function(par1, par2) {
 - par1 and par2 are parameters
 - some_var is a local variable
 - return some_var sends the data in some_var out of the function
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)
