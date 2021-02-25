@@ -24,7 +24,7 @@ h1, h2, h3 {
 - the other way to use CSS is to embed a style tag on a page 
 - the cheat sheet below does a great job at giving examples of different CSS statements and how to use them within pages of code
 
-[Click Here] for a CSS cheat sheet. (https://htmlcheatsheet.com/css/)
+[Click Here](https://htmlcheatsheet.com/css/) for a CSS cheat sheet.
 
 
 
@@ -42,7 +42,7 @@ h1 {
     color: rgb(102, 205, 170) 
 }
 
-[Click Here] for a CSS color selector. (https://www.w3schools.com/colors/colors_picker.asp)
+[Click Here](https://www.w3schools.com/colors/colors_picker.asp) for a CSS color selector.
 
 
 
