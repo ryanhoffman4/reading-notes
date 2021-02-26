@@ -14,22 +14,22 @@
 - 3 + 4 is an expression for 7
 - '3' + '4' is an expression for 34
 - operators handle expressions
-- = is the assignment operator
-- + is the concatenating operator
+- '=' is the assignment operator
+- '+' is the concatenating operator
 
 ##### Math Operators
-- + also addition 
-- - subtraction 
-- * multiplication 
-- / division
-- % modulo
-- == equals
-- > greater than
-- < less than
-- >= greater or equal to
-- <= less or equal to
+- '+' also addition 
+- '-' subtraction 
+- '*' multiplication 
+- '/' division
+- '%' modulo
+- '==' equals
+- '>' greater than
+- '<' less than
+- '>=' greater or equal to
+- '<=' less or equal to
 - '' for forming a string
-- // for comments
+- '//' for comments
 
 ### Functions
 
