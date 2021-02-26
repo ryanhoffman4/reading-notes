@@ -10,6 +10,6 @@
 - some basic data types are strings, numbers, and booleans
 - use backslash to escape quotation marks and such
 
-[Click Here]https://ryanhoffman4.github.io/code-along/starter-code/add-content.html for the result of the Do-Along exercise.
+[Click Here](https://ryanhoffman4.github.io/code-along/starter-code/add-content.html) for the result of the Do-Along exercise.
 
 [Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)
