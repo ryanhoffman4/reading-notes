@@ -19,7 +19,18 @@
 - [Reading01](code201notes/Reading01.md)
 - [Reading02](code201notes/Reading02.md)
 - [Reading03](code201notes/Reading03.md)
-
+- [Reading04](code201notes/Reading04.md)
+- [Reading05](code201notes/Reading05.md)
+- [Reading06](code201notes/Reading06.md)
+- [Reading07](code201notes/Reading07.md)
+- [Reading08](code201notes/Reading08.md)
+- [Reading09](code201notes/Reading09.md)
+- [Reading10](code201notes/Reading10.md)
+- [Reading11](code201notes/Reading11.md)
+- [Reading12](code201notes/Reading12.md)
+- [Reading13](code201notes/Reading13.md)
+- [Reading14](code201notes/Reading14.md)
+- [Reading15](code201notes/Reading15.md)
 
 
 ###### To my GitHub Profile:
