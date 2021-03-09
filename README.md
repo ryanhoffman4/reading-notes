@@ -4,25 +4,33 @@
 
 #### Table of Contents:
 
-- [Reading01](https://ryanhoffman4.github.io/reading-notes/Reading01)
-- [Reading02](https://ryanhoffman4.github.io/reading-notes/Reading02)
-- [Reading03](https://ryanhoffman4.github.io/reading-notes/Reading03)
-- [Reading04](https://ryanhoffman4.github.io/reading-notes/Reading04)
-- [Reading05](https://ryanhoffman4.github.io/reading-notes/Reading05)
-- [Reading06a](https://ryanhoffman4.github.io/reading-notes/Reading06a)
-- [Reading06b](https://ryanhoffman4.github.io/reading-notes/Reading06b)
-- [Reading07](https://ryanhoffman4.github.io/reading-notes/Reading07)
-- [Reading08](https://ryanhoffman4.github.io/reading-notes/Reading08)
+##### Code 102 Notes:
+- [Reading01](code102notes/Reading01.md)
+- [Reading02](code102notes/Reading02.md)
+- [Reading03](code102notes/Reading03.md)
+- [Reading04](code102notes/Reading04.md)
+- [Reading05](code102notes/Reading05.md)
+- [Reading06a](code102notes/Reading06a.md)
+- [Reading06b](code102notes/Reading06b.md)
+- [Reading07](code102notes/Reading07.md)
+- [Reading08](code102notes/Reading08.md)
 
-#### To my GitHub Profile:
+##### Code 201 Notes:
+- [Reading01](code201notes/Reading01.md)
+- [Reading02](code201notes/Reading02.md)
+- [Reading03](code201notes/Reading03.md)
+
+
+
+###### To my GitHub Profile:
 To track my GitHub page, [click here](https://github.com/ryanhoffman4).
 
 
-#### The Growth Mindset
+###### The Growth Mindset
 Keeping a growth mindset was the focus of this morning's course material.  My definition of a growth mindset is: *"a state of mind that maintains a perception of adversities as learning opportunities, not fuel for giving up"*.  Upon reflecting, I can use a growth mindset in my own pursuit of learning software engineering.  I have high standards for my performance, and get easily frustrated when I'm stuck on a problem for very long.  Not to mention, **I am quick to give up**.
   
 
-#### My Self Promise:
+###### My Self Promise:
 I promise to:
 1. stay enrolled in coding school until finishing
 1. keep my negative attitude in check
