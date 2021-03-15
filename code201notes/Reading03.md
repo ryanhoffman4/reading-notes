@@ -5,9 +5,9 @@
 ##### Chapter 3: "Lists"
 - three kinds of lists in html: ordered, unordered, and definition
 - ordered lists have numbers, unordered lists have bullets, definition lists have a key term followed by some kind of description
-- all list items are encased in <li> tags
-- ordered list items have their <li> tags encased in an <ol> block
-- unordered list items are encased in a <ul> block
+- all list items are encased in li tags
+- ordered list items have their li tags encased in an ol block
+- unordered list items are encased in a ul block
 
 
 ##### Chapter 13: "Boxes"
