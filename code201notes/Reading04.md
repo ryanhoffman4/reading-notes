@@ -54,3 +54,7 @@
 - social skills: meh
 - job interview readiness: pair programming provides great practice for coding in front of people and explaining your thinking
 - work environment readiness: be prepared for paired programming on the job
+
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

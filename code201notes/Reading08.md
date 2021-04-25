@@ -14,3 +14,6 @@
 
 - the rest of the chapter discusses examples of positioning, other layouts such as liquid or grid, and handling multiple style sheets
 
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

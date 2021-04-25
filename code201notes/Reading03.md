@@ -39,3 +39,6 @@
 - short circuit values: only need to check first value of inequality depending on operator, only need one true value to evaluate 'or', and one false value to evaluate 'and'
 - while loops execute code block until boolean condition is false
 - for loop has while condition that constrains number of times code is executed
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

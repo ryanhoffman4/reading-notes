@@ -35,3 +35,6 @@
 - 'this' operator lets methods of objects modify properties of same object
 - languages have built in objects: javascript has 'document' object: document.title, document.url, etc.
 - just about everything is an object
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

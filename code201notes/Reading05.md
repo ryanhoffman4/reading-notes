@@ -34,3 +34,8 @@
 - here is the copy and pasted TL;DR
 
 - Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
+
+
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)

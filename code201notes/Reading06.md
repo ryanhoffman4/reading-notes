@@ -20,3 +20,6 @@
 - HTML DOM has ALOT of material
 - for easy reference, here is an organized example guide of common DOM functions
 - https://www.w3schools.com/js/js_htmldom.asp
+
+
+[Back to Table of Contents](https://ryanhoffman4.github.io/reading-notes/)
