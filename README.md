@@ -29,8 +29,8 @@
 - [Reading11](code201notes/Reading11.md)
 - [Reading12](code201notes/Reading12.md)
 - [Reading13](code201notes/Reading13.md)
-- [Reading14](code201notes/Reading14.md)
-- [Reading15](code201notes/Reading15.md)
+- [Reading14a](code201notes/Reading14a.md)
+- [Reading14b](code201notes/Reading14b.md)
 
 
 ###### To my GitHub Profile:
