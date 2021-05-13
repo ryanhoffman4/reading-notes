@@ -32,6 +32,23 @@
 - [Reading14a](code201notes/Reading14a.md)
 - [Reading14b](code201notes/Reading14b.md)
 
+##### Code 301 Notes:
+- [Reading01](code301notes/Reading01.md)
+- [Reading02](code301notes/Reading02.md)
+- [Reading03](code301notes/Reading03.md)
+- [Reading04](code301notes/Reading04.md)
+- [Reading05](code301notes/Reading05.md)
+- [Reading06](code301notes/Reading06.md)
+- [Reading07](code301notes/Reading07.md)
+- [Reading08](code301notes/Reading08.md)
+- [Reading09](code301notes/Reading09.md)
+- [Reading10](code301notes/Reading10.md)
+- [Reading11](code301notes/Reading11.md)
+- [Reading12](code301notes/Reading12.md)
+- [Reading13](code301notes/Reading13.md)
+- [Reading14](code301notes/Reading14.md)
+- [Reading15](code301notes/Reading15.md)
+
 
 ###### To my GitHub Profile:
 To track my GitHub page, [click here](https://github.com/ryanhoffman4).
